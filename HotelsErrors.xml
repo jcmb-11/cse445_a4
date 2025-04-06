@@ -11,7 +11,7 @@
       <Number>11</Number>
       <Street>E.7th St</Street>
       <City>Tempe</City>
-      <state>AZ</state>
+      <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
   </Hotel>
@@ -24,7 +24,7 @@
       <Number>768</Number>
       <Street>5th Avenue</Street>
       <City>New York</City>
-      <state>NY</state>
+      <State>NY</State>
       <Zip>10019</Zip>
     </Address>
   </Hotel>
@@ -37,7 +37,7 @@
       <Number>950</Number>
       <Street>Mason Street</Street>
       <City>San Francisco</City>
-      <state>CA</state>
+      <State>CA</State>
       <Zip>94108</Zip>
     </Address>
   </Hotel>
@@ -50,7 +50,7 @@
       <Number>9850</Number>
       <Street>Wilshire Blvd</Street>
       <City>Beverly Hills</City>
-      <state>CA</state>
+      <State>CA</State>
       <Zip>90210</Zip>
     </Address>
   </Hotel>
@@ -62,7 +62,7 @@
       <Number>1</Number>
       <Street>South County Road</Street>
       <City>Palm Beach</City>
-      <state>FL</state>
+      <State>FL</State>
       <Zip>33480</Zip>
     </Address>
   </Hotel>
@@ -75,7 +75,7 @@
       <Number>214</Number>
       <Street>Royal Street</Street>
       <City>New Orleans</City>
-      <state>LA</state>
+      <State>LA</State>
       <Zip>70130</Zip>
   </Hotel>
 
@@ -86,7 +86,7 @@
       <Number>60</Number>
       <Street>School Street</Street>
       <City>Boston</City>
-      <state>MA</state>
+      <State>MA</State>
       <Zip>02108</Zip>
     </Address>
   </Hotel>
@@ -99,7 +99,7 @@
       <Number>3600</Number>
       <Street>Las Vegas Blvd S</Street>
       <City>Las Vegas</City>
-      <state>NV</state>
+      <State>NV</State>
       <Zip>89109</Zip>
     </Address>
   </Hotel>
@@ -111,7 +111,7 @@
       <Number>17</Number>
       <Street>East Monroe Street</Street>
       <City>Chicago</City>
-      <state>IL</state>
+      <State>IL</State>
       <Zip>60603</Zip>
     </Address>
   </Hotel>
@@ -126,7 +126,7 @@
       <Number>4925</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
-      <state>AZ</state>
+      <State>AZ</State>
       <Zip>85251</Zip>
     </Address>
   </Hotel>
