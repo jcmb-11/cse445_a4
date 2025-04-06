@@ -2,7 +2,7 @@
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
-  <!-- Error 1: The root element name is Hotel instead of Hotels -->
+  <!-- Error 1: The root element name is Hotel instead of Hotels-->
   <Hotel Rating="5">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
