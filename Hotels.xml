@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+  <Hotel Rating="5">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <state>AZ</state>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="5">
+    <Name>The Plaza Hotel</Name>
+    <Phone>212-759-3000</Phone>
+    <Phone>800-759-3000</Phone>
+    <Address NearstAirport="JFK">
+      <Number>768</Number>
+      <Street>5th Avenue</Street>
+      <City>New York</City>
+      <state>NY</state>
+      <Zip>10019</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4">
+    <Name>Fairmont San Francisco</Name>
+    <Phone>415-772-5000</Phone>
+    <Address NearstAirport="SFO">
+      <Number>950</Number>
+      <Street>Mason Street</Street>
+      <City>San Francisco</City>
+      <state>CA</state>
+      <Zip>94108</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="5">
+    <Name>Waldorf Astoria Beverly Hills</Name>
+    <Phone>310-860-6666</Phone>
+    <Phone>800-925-3673</Phone>
+    <Address NearstAirport="LAX">
+      <Number>9850</Number>
+      <Street>Wilshire Blvd</Street>
+      <City>Beverly Hills</City>
+      <state>CA</state>
+      <Zip>90210</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4">
+    <Name>The Breakers</Name>
+    <Phone>888-273-2537</Phone>
+    <Phone>561-655-6611</Phone>
+    <Address NearstAirport="PBI">
+      <Number>1</Number>
+      <Street>South County Road</Street>
+      <City>Palm Beach</City>
+      <state>FL</state>
+      <Zip>33480</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3">
+    <Name>Hotel Monteleone</Name>
+    <Phone>504-523-3341</Phone>
+    <Address NearstAirport="MSY">
+      <Number>214</Number>
+      <Street>Royal Street</Street>
+      <City>New Orleans</City>
+      <state>LA</state>
+      <Zip>70130</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4">
+    <Name>Omni Parker House</Name>
+    <Phone>617-227-8600</Phone>
+    <Address NearstAirport="BOS">
+      <Number>60</Number>
+      <Street>School Street</Street>
+      <City>Boston</City>
+      <state>MA</state>
+      <Zip>02108</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="5">
+    <Name>Bellagio Hotel and Casino</Name>
+    <Phone>888-987-6667</Phone>
+    <Phone>702-693-7111</Phone>
+    <Address NearstAirport="LAS">
+      <Number>3600</Number>
+      <Street>Las Vegas Blvd S</Street>
+      <City>Las Vegas</City>
+      <state>NV</state>
+      <Zip>89109</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4">
+    <Name>Palmer House Hilton</Name>
+    <Phone>312-726-7500</Phone>
+    <Address NearstAirport="ORD">
+      <Number>17</Number>
+      <Street>East Monroe Street</Street>
+      <City>Chicago</City>
+      <state>IL</state>
+      <Zip>60603</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3">
+    <Name>Hotel San Carlos</Name>
+    <Phone>602-253-4121</Phone>
+    <Address NearstAirport="PHX">
+      <Number>202</Number>
+      <Street>North Central Ave</Street>
+      <City>Phoenix</City>
+      <state>AZ</state>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4">
+    <Name>The Scott Resort And Spa</Name>
+    <Phone>480-945-7666</Phone>
+    <Phone>480-945-1234</Phone>
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
+        <Number>4925</Number>
+        <Street>N Scottsdale Rd</Street>
+        <City>Scottsdale</City>
+        <state>AZ</state>
+        <Zip>85251</Zip>
+   </Address>
+</Hotel>
+
+</Hotels>
